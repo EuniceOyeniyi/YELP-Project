@@ -9,10 +9,10 @@ i31 Hotel,€€,Mitte,19,4.5,Hotels
 The Dude,€€,Mitte,3,4,Hotels
 Mercure Hotel MOA Berlin,€€,Tiergarten,9,3.5,Hotels
 AC Hotel by Marriott Berlin Humboldthain Park,,,4,3.5,HotelsWedding
-Apartment Schulz,€,Prenzlauer,1,5,Hotels
 Hotel Grenzfall,€€,Wedding,7,5,Hotels
 Arena Inn,€,Wedding,2,3,Hotels
 Catalonia Mitte,€€€,Mitte,7,3,Hotels
+Apartment Schulz,€,Prenzlauer,1,5,Hotels
 "The Ritz-Carlton, Berlin",€€€€,Tiergarten,53,4.5,Hotels
 Hotel Vienna House Easy,€,Prenzlauer,4,4.5,Hotels
 "The Westin Grand, Berlin",€€€,Mitte,102,4,Hotels
@@ -23,7 +23,7 @@ Avus - Motel,€€,Charlottenburg,4,4,Hotels
 Wyndham Garden Berlin Mitte,€€,Wedding,26,3,Hotels
 hotel funghi,,,1,5,HotelsKreuzberg
 Holiday Inn Express,€€,Kreuzberg,37,4,Hotels
-TITANIC Chaussee Berlin,€€€,Mitte,19,3.5,HotelsHealth Spas
+TITANIC Chaussee Berlin,€€€,Mitte,19,3.5,HotelsHealth
 berlin aloha suites,,,,,HotelsKreuzberg
 Schlosspark Hotel,€€€,Charlottenburg,6,4,Hotels
 Pullman Berlin Schweizerhof,€€€,Tiergarten,70,4.5,Hotels
@@ -32,10 +32,10 @@ Hotel Amano Grand Central,€€€,Tiergarten,15,3.5,Hotels
 Huettenpalast,,,1,5,HotelsReuterkiez
 Hotel 103,€,Prenzlauer,12,4.5,Hotels
 TITANIC Gendarmenmarkt Berlin,€€€,Mitte,17,3.5,Hotels
-Das Hotel,€€,Kreuzberg,47,4,BarsClubs
 nhow BERLIN,€€€,Friedrichshain,84,4,Hotels
 Hotel Adlon Kempinski,€€€€,Mitte,88,4.5,Hotels
 Orania,,,2,3,HotelsKreuzberg
+Das Hotel,€€,Kreuzberg,47,4,BarsClubs
 Adina Hotel Berlin Checkpoint Charlie,€€,Mitte,38,4.5,Hotels
 Hotel Vier Jahreszeiten,€€,Kreuzberg,2,4.5,Hotels
 Concorde Hotel am Studio,€,Charlottenburg,4,3.5,B&BsHotels
@@ -44,20 +44,20 @@ Villa Toskana,,,1,4,HotelsSteglitz
 ibis budget,€€,Charlottenburg,15,3,Hotels
 Eurostars,€€,Mitte,6,4.5,Hotels
 Motel One Berlin-Potsdamer Platz,€€,Mitte,10,4.5,Hotels
-ibis Styles Berlin Treptow,,,,,HotelsTreptow
 Michelberger Hotel,€€,Friedrichshain,43,4,Hotels
+ibis Styles Berlin Treptow,,,,,HotelsTreptow
 Hotel Albrechtshof,€€,Mitte,14,4.5,Hotels
 B&B Hotel Berlin-Tiergarten,,,2,4,B&BsCharlottenburg
 Hotel Petit,,,,,HotelsZehlendorf
 IntercityHotel Berlin Hauptbahnhof,€€,Tiergarten,23,4,Hotels
 Renate Bendzko-Schljachow,,,,,Hotels
+Holiday Inn Berlin - City East Side,€€,Friedrichshain,9,4,Hotels
 Die Fabrik,€,Kreuzberg,16,3.5,Hotels
 Holiday Inn Express,€€,Mitte,2,4.5,Hotels
 Hotel Kronprinz,€€€,Wilmersdorf,13,3.5,Hotels
 Select Hotel Berlin The Wall,€€,Mitte,7,4.5,Hotels
 Riverside Hotel,€€,Mitte,24,4,Hotels
 City-Hotel Gotland,,,3,2.5,HotelsKreuzberg
-Holiday Inn Berlin - City East Side,€€,Friedrichshain,9,4,Hotels
 Chrome Cottage,,,1,5,HotelsFriedrichshain
 Hotel Bongard,€€€€,Reinickendorf,6,3.5,Hotels
 Citylight Hotel,€€,Wedding,14,4,Hotels
@@ -70,36 +70,33 @@ Apartmenthaus-Tegel,,,,,HotelsReinickendorf
 Hotel Bornholmer Hof,€€,Prenzlauer,2,4.5,Hotels
 Pe’s Castle,,,,,HotelsNeukölln
 Hotel Am Hermannplatz,€,Kreuzberg,1,3,Hotels
-Hotel Die Schule,,,,,HotelsPrenzlauer Berg
+Hotel Die Schule,,,,,HotelsPrenzlauer
 B&B Hotel Berlin-Charlottenburg,,,2,4,HotelsCharlottenburg
-Columbia City Hotel,€€,Kreuzberg,6,3,Hotels
 Hotel Ludwig van Beethoven,€€,Kreuzberg,10,4.5,Hotels
 Hotel Alt Tempelhof,€€,Tempelhof,6,3.5,Hotels
-Riehmers Hofgarten,,,5,4,HotelsKreuzberg
+Columbia City Hotel,€€,Kreuzberg,6,3,Hotels
 Dahlem,€,Zehlendorf,1,2,Hotels
-Holiday Inn Berlin City Center East Prenzlauer Berg,,,1,5,HotelsPrenzlauer Berg
 Akademie Hotel,,,3,3,HotelsPankow
 Hotel NH Berlin Alexanderplatz,€€,Friedrichshain,29,4,Hotels
-"Central Hotel Tegel,",€€,Reinickendorf,,,Hotels
+Holiday Inn Berlin City Center East Prenzlauer Berg,,,1,5,HotelsPrenzlauer
 Konsum Hotel Müggelsee,,,,,HotelsLichtenberg
+"Central Hotel Tegel,",€€,Reinickendorf,,,Hotels
 East-Side-Hotel,€€,Friedrichshain,16,4,Hotels
 Schulz Hotels,,,2,4.5,HotelsFriedrichshain
 Pension Falkenberg,,,,,HotelsReinickendorf
-Romantic Modern Centre Apartment,,,,,HotelsPrenzlauer Berg
+Romantic Modern Centre Apartment,,,,,HotelsPrenzlauer
 Central Inn Hotel,,,2,1.5,HotelsTiergarten
 Hotel Alt Karow,,,,,HotelsWeißensee
 Pension Leopold,,,,,HotelsWedding
+Riehmers Hofgarten,,,5,4,HotelsKreuzberg
 25hours Hotel Bikini Berlin,€€€,Wilmersdorf,20,4.5,Hotels
 B&B Hotel Berlin-Potsdamer Platz,€,Tiergarten,7,4,Hotels
-Evangelischer Diakonieverein,,,1,5,HotelsZehlendorf
 Old Town Hotel Berlin,€€,Prenzlauer,4,4.5,Hotels
 Dorint,€€,Reinickendorf,3,4,Hotels
 Good Morning+ Berlin City East,,,1,4,HotelsLichtenberg
 Erlanger Hof,,,3,3,HotelsNeukölln
 Hotel Garden Living,€€,Mitte,2,5,Hotels
-Hotel Pension Canaletto,,,2,1,HotelsHoliday RentalsB&BsTempelhof
 ibis Berlin City Nord,€,Reinickendorf,7,2,Hotels
-Plus Berlin,,,29,4,HostelsFriedrichshain
 Hotel Pension Lohwasser,€,Friedrichshain,3,4.5,Pensions
 acama,€€,Schöneberg,1,4,Hotels
 Best Western Premier Hotel am Borsigturm,€€,Reinickendorf,17,4,HotelsGerman
@@ -107,17 +104,40 @@ FSC Hotel Solutions,,,,,HotelsReinickendorf
 Leonardo,€€,Charlottenburg,9,3.5,Hotels
 Hotel Gotland,,,1,5,HotelsSteglitz
 MEININGER Hotel Berlin Mitte “Humboldthaus”,€€,Mitte,11,4,Hotels
-Pension Marie,€€€,Prenzlauer,2,2,Hotels
 Rocco Forte Hotel de Rome,€€€€,Mitte,31,4,Hotels
-Hapimag,,,2,5,ResortsMitte
+GRG Services Hotel,,,,,HotelsReinickendorf
+Hotel Sarotti-Höfe,€€,Bergmannkiez,11,4.5,Hotels
+G & G Zimmerservice,,,,,HotelsPankow
+Leonardo Hotel Berlin City Süd,€€,Neukölln,2,5,Hotels
+Pension Prenzelberg,€,Prenzlauer,2,2.5,Hotels
+Gasteiner Hof,,,2,5,HotelsWilmersdorf
+Arte Luise Kunsthotel,€€,Mitte,15,4,Hotels
+Hotel Pension Canaletto,,,2,1,HotelsHoliday
+Hotel Oderberger,€€€€,Prenzlauer,9,4.5,Hotels
+Vienna House,€€€,Lichtenberg,96,4.5,Hotels
+Plus Berlin,,,29,4,HostelsFriedrichshain
+Hotel Transit,€€,Kreuzberg,7,4,Hotels
+Evangelischer Diakonieverein,,,1,5,HotelsZehlendorf
+Berlin-Apartments & Pension Franz Nickel,,,1,4,HotelsMitte
+Hotel Friedenau - Das Literaturhotel Berlin,€€€,Schöneberg,3,4.5,Hotels
+Pension Marie,€€€,Prenzlauer,2,2,Hotels
+Hotel de France,€,Wedding,11,4,HotelsVenues
+Hotel - Pension Kossack,€€,Schöneberg,3,4.5,Hotels
+Motel One Berlin-Mitte,€€,Kreuzberg,41,3.5,Hotels
+Pension Alte Dorfaue,,,,,PensionsTempelhof
+Apartments Schlachtensee,,,,,HotelsZehlendorf
+Hotel Graf Pückler,€,Wedding,5,3.5,Hotels
+Hotel Amelie,€,Mitte,1,3,Hotels
+Arcotel Velvet Berlin,€€,Mitte,23,4,Hotels
+Hotel Stadtgut Berlin Buch,,,,,HotelsPankow
 Hotel Schloss Britz,€€,Britz,1,4,Hotels
 Pension am Rüdesheimer Platz,€€,Wilmersdorf,7,1.5,Pensions
+Ackselhaus,€€€,Prenzlauer,16,4.5,Hotels
 Hotel AMO,,,1,4,HotelsMitte
 Victor’s Residenz-Hotel Berlin-Tegel,€€,Reinickendorf,13,3.5,Hotels
-Hotel - Pension Kossack,€€,Schöneberg,3,4.5,Hotels
 Ibis Berlin Spandau,,,,,HotelsSpandau
+Hapimag,,,2,5,ResortsMitte
 ibis Styles Hotel Berlin Mitte,€€,Mitte,14,3.5,Hotels
-Ackselhaus,€€€,Prenzlauer,16,4.5,Hotels
 Axel Hotel,€€€,Schöneberg,34,2.5,Hotels
 Hotel Prens,€,Reuterkiez,9,2.5,Hotels
 "Hotel-Pension Enzian,",€€,Steglitz,1,4,Hotels
@@ -131,19 +151,20 @@ Gaststätte Großbeerenkeller,€€,Kreuzberg,,,Hotels
 Hotel Haus La Garde,,,,,B&BsHotelsZehlendorf
 ApartHotel Residenz Am Deutschen Theater,,,5,5,HotelsMitte
 Pension Freddi,,,1,4,PensionsKreuzberg
-Mercure Hotel Berlin City,€€,Mitte,29,4,HotelsVenues & Event Spaces
+Mercure Hotel Berlin City,€€,Mitte,29,4,HotelsVenues
 Hotel New Berlin,€€,Friedrichshain,18,4.5,Hotels
-La Vie Hotel Joachimshof,,,1,3,HotelsMitte
 Hotel Grüner Baum Berlin,€,Spandau,2,5,HotelsB&BsRestaurants
+La Vie Hotel Joachimshof,,,1,3,HotelsMitte
 Hotel NH Collection Berlin Mitte Friedrichstrasse,€€,Mitte,23,4,Hotels
 Das Andere Haus VIII,€,Lichtenberg,3,4.5,Hotels
 Pestana Berlin Tiergarten,€€,Tiergarten,7,4.5,Hotels
-Hotel zur Panke Restaurant und Bowling,€,,2,4.5,HotelsBowling
 Hotel Garni,€€,Reinickendorf,1,5,B&BsHotels
+Hotel zur Panke Restaurant und Bowling,€,,2,4.5,HotelsBowling
 Motel One Berlin-Hackescher Markt,€€,Mitte,13,4,Hotels
+Hotel Haus Leopold,€€,Zehlendorf,5,4,Hotels
 Zimmervermietung Sachse,,,,,Hotels
 HOTEL BIG MAMA,,,,,HotelsWedding
-Berlin Marriott Hotel,€€€,Tiergarten,75,4,HotelsVenues & Event Spaces
+Berlin Marriott Hotel,€€€,Tiergarten,75,4,HotelsVenues
 ibis Berlin Neukoelln,€€,Britz,4,3.5,Hotels
 TRYP Berlin,€€,Mitte,10,3.5,Hotels
 Hotel CD,,,,,HotelsReinickendorf
@@ -152,15 +173,14 @@ Hotel TULIP INN,,,,,HotelsFriedrichshain
 In Hotel Berlin,,,1,5,HotelsSteglitz
 Courtyard by Marriott Berlin City Center,€€,Mitte,31,4,Hotels
 Hotel Potsdamer Inn,€€€,Schöneberg,5,3,Hotels
-Hotel-Pension Insor,,,1,4,HotelsGuest HousesFriedrichshain
+Hotel-Pension Insor,,,1,4,HotelsGuest
 CityWest Berlin Apartments,,,,,HotelsSchöneberg
 Landmark Eco Hotel,€,Charlottenburg,3,4,Hotels
-Grand Hyatt Berlin,€€€,Tiergarten,98,4.5,HotelsVenues & Event Spaces
+Grand Hyatt Berlin,€€€,Tiergarten,98,4.5,HotelsVenues
 Lindemanns,€€,Schöneberg,15,4,Hotels
-Pfefferbett Hostel,,,26,4.5,HostelsPrenzlauer Berg
-Hotel Haus Leopold,€€,Zehlendorf,5,4,Hotels
+Pfefferbett Hostel,,,26,4.5,HostelsPrenzlauer
 Adina Hotel Berlin Mitte,€€,Mitte,7,4.5,Hotels
-hostelix,,,,,Estate AgentsHotelsLichtenberg
+hostelix,,,,,Estate
 HSH Hotel Apartments Mitte,€€,Mitte,4,4.5,Hotels
 Hotel NH Berlin City West,€€,Wilmersdorf,13,2.5,Hotels
 Sheraton Berlin Grand Hotel Esplanade,€€€,Tiergarten,77,4,Hotels
@@ -169,25 +189,24 @@ Generator Berlin Prenzlauer Berg,€,Prenzlauer,49,3,Hotels
 H+ Hotel 4Youth,€€,Mitte,5,4.5,Hotels
 Hampton by Hilton Berlin City West,€€,Charlottenburg,24,4.5,Hotels
 GFH Hotel Garni,,,,,B&BsHotelsWilmersdorf
-Hotel Spree-idyll,€€,Köpenick,3,5,Hotels
 Best Western Hotel Berlin-Mitte,€€,Mitte,14,3,Hotels
 Parkhotel Marzahn,,,2,4,HotelsMarzahn
+Hotel Spree-idyll,€€,Köpenick,3,5,Hotels
 Hotel-Pension Rehberge,€,Wedding,4,2.5,Hotels
 Hotel Brandies Berlin,€€,Charlottenburg,14,4.5,Hotels
 Ehrendreich,,,,,Hotels
 Bernstein,,,1,4,HotelsWilmersdorf
+Hotel Tiergarten Berlin,€€,Tiergarten,7,4.5,Hotels
 Hotel Landhaus Alpinia,€€€,Tempelhof,6,4,Hotels
-Hotel-Pension Jolly,,,,,Hotel & TravelTiergarten
+Hotel-Pension Jolly,,,,,Hotel
 Novum Style Hotel DAS Berlin Centrum,€€,Charlottenburg,10,4.5,Hotels
 Hotel Larat,€,Reinickendorf,8,3,Hotels
 Hotel Ku’ Damm 101,€€,Charlottenburg,40,4,Hotels
-Pension Regenbogen,,,4,4,HotelsGuest HousesFriedrichshain
-tiergarten-studio,,,1,5,Car & MotorcycleHotelsTiergarten
-Good Mood Living,,,,,HotelsSchöneberg
+Pension Regenbogen,,,4,4,HotelsGuest
+tiergarten-studio,,,1,5,Car
 easyHotel,€,Mitte,16,4,Hotels
-1A - Apartment - Berlin,,,4,3,B&BsPrenzlauer Berg
+1A - Apartment - Berlin,,,4,3,B&BsPrenzlauer
 Volker Nissen,,,,,HotelsWilmersdorf
-Hotel Tiergarten Berlin,€€,Tiergarten,7,4.5,Hotels
 Clipper City Home Berlin,€€,Mitte,12,4,Hotels
 Myer’s Hotel,€€,Prenzlauer,12,4.5,Hotels
 Best Western Hotel am Spittelmarkt,€€,Mitte,21,3.5,Hotels
@@ -200,9 +219,9 @@ Sevenrooms,,,,,HotelsTiergarten
 Hotel Köpenick,,,1,4,HotelsTreptow
 Hotel Allegra,€€,Mitte,3,2.5,Hotels
 Upper Room Hotel,€€,Wilmersdorf,2,2,Hotels
-Hotel Pension Kastanienhof,€€,Mitte,4,4,HotelsGuest Houses
+Hotel Pension Kastanienhof,€€,Mitte,4,4,HotelsGuest
 Herberge Große,,,,,HotelsSchillerkiez
-Gasthaus Zum Weißen Schwan,€€,,16,4.5,GermanPensionsBeer Gardens
+Gasthaus Zum Weißen Schwan,€€,,16,4.5,GermanPensionsBeer
 ApartHotel Landhaus Lichterfelde,€€,Steglitz,2,2,Hotels
 Seehotel Berlin-Rangsdorf,€€,,6,4,Hotels
 Seeresidenz am Müggelsee,,,,,HotelsKöpenick
@@ -219,3 +238,4 @@ Hotel Alte Feuerwache,€€,Hohenschönhausen,3,4.5,Hotels
 Hilton Berlin,€€€,Mitte,110,4,Hotels
 Hotel Zur Reichspost,€€,Kreuzberg,2,1,B&BsHotels
 ibis budget,€€,Tiergarten,6,3.5,Hotels
+"Hotel Berlin, Berlin",€€,Tiergarten,46,4,Hotels
